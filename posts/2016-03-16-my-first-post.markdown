@@ -16,7 +16,11 @@ Here is a `code snippet`
 
 * item
 * item
-* item *
+
+* item
+* item
+
+
 
 
 1. numbered item
