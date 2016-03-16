@@ -16,7 +16,8 @@ Here is a `code snippet`
 
 * item
 * item
-* item
+* item *
+
 
 1. numbered item
 2. numbered item
